@@ -1,5 +1,12 @@
-./BasicCS
-./English4
-./Psychology
-./sxdd
-./sxyzc
+BasicCS/
+English4/
+Psychology/
+sxdd/
+sxyzc/
+*.exe
+*.zip
+*.xls
+*.ppt
+*.docx
+*.pdf
+noadd/
